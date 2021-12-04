@@ -1,0 +1,40 @@
+.navigationBar {
+    display: block;
+    height: 50px;
+    width: 100%;
+    background-color: green;
+}
+
+nav{
+    margin-top: 5px;
+    margin-bottom: 5px;
+   display: inline;
+   position: absolute;
+   margin-left: 80%;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.picture {
+    display: block;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.forms {
+    display: block;
+}
